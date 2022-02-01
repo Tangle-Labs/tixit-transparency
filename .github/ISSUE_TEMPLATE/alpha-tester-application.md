@@ -35,3 +35,7 @@ check boxes by adding a "x" in them, for example [x]
 ## Are you a part of X-Teams?
 
 - [please fill in]
+
+## List the Specs of the Device(s) you will use for testing 
+
+- [please fill in]
